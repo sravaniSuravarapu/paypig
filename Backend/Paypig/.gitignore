@@ -1,0 +1,6 @@
+.env
+# Ignore media files (uploaded user content)
+
+
+
+/env/
